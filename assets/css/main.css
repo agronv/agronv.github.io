@@ -3287,22 +3287,12 @@ input, select, textarea {
 
 .resume {
 	margin-bottom: 20px !important;
+	padding-top: 20px !important;
 }
 
 h1 {
 	font-size: 50px;
 }
-
-/* .projects {
-	transition: .4s;
-	background-color: black;
-	opacity: 0.8;
-}
-
-.projects:hover {
-	opacity: 1;
-	/* transform: scale(1.1); */
-
 
 .projects img {
 	width: 100% !important;
@@ -3322,10 +3312,8 @@ h1 {
 }
 
 #canvas {
-	/* position: absolute; */
 	top: 0;
 	left: 0;
-	/* z-index: 1; */
 }
 
 .skills {
@@ -3350,4 +3338,24 @@ h1 {
 .redux {
 	width: 65px;
 	height: auto;
+}
+
+.notefloat {
+	color: #F65502;
+}
+
+.globaldata {
+	color: #7deeff;
+}
+
+.para {
+	border-top: none !important;
+	margin-top: 0 !important;
+	padding-top: 0 !important;
+	font-size: 18px !important;
+}
+
+.resume-button {
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
