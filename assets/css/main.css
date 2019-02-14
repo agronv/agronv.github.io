@@ -3359,3 +3359,7 @@ h1 {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+
+#main {
+	padding-bottom: 0 !important;
+}
