@@ -2801,7 +2801,7 @@ input, select, textarea {
 		#footer:before {
 			background: rgba(224, 224, 224, 0.75);
 			content: '';
-			height: calc(460px + 6em);
+			height: calc(440px + 6em);
 			left: 50%;
 			position: absolute;
 			top: 0;
@@ -3362,4 +3362,15 @@ h1 {
 
 #main {
 	padding-bottom: 0 !important;
+}
+
+#footer-header {
+	padding: 0;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	border: none;
+}
+
+#free-time {
+	padding-top: 30px;
 }
